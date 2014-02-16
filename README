@@ -1,0 +1,3 @@
+Usage:
+python hydrabot.py #edit server, port, and channel in file, currently hardcoded
+python hydracommands.py #for basic repl
